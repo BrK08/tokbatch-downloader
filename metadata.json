@@ -1,0 +1,7 @@
+{
+  "name": "TokBatch Downloader",
+  "description": "A bulk TikTok video downloader dashboard.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
